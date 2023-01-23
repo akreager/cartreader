@@ -1,0 +1,2 @@
+$ cat .gitignore
+/main_pcb_hw5-backups/*
