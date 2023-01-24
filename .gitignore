@@ -1,9 +1,16 @@
 
 hardware/main_pcb_hw5/fp-info-cache
+hardware/main_pcb_hw5/fp-lib-table
 hardware/main_pcb_hw5/main_pcb_hw5-backups/*
+
 hardware/n64_adapter/fp-info-cache
 hardware/n64_adapter/fp-lib-table
 hardware/n64_adapter/n64_adapter-backups/*
+
 hardware/gameboy_adapter/fp-info-cache
 hardware/gameboy_adapter/fp-lib-table
 hardware/gameboy_adapter/gameboy_adapter-backups/*
+
+hardware/snes_adapter/fp-info-cache
+hardware/snes_adapter/fp-lib-table
+hardware/snes_adapter/snes_adapter-backups/*
