@@ -1,10 +1,11 @@
 0. Rename adapter -> breakout board? probably no
-1. Order cart ports, controller port, cables, pin header/socket, switches. Done 2023-01-15
-2. Create footprint of N64 controller port.
-3. Update N64 breakout board with N64 controller port footprint.
-4. Finalize N64, SNES and GBA breakout board PCB layouts.
-5. Order N64, SNES and GBA breakout boards.
-6. Modify Arduino Mega bootloader to run at 8MHz. (to make it 3.3v safe)
-7. Build breadboard model with Arduino Mega board.
-8. Update main pcb schematic and pcb layout.
-9. Order main pcb.
+1. Order cart ports, controller port, cables, pin header/socket, switches. Done 2023-01-25
+2. Order Adafruit parts. Done 2023-01-25
+3. Create footprint of N64 controller port.
+4. Update N64 breakout board with N64 controller port footprint.
+5. Finalize N64, SNES and GBA breakout board PCB layouts.
+6. Order N64, SNES and GBA breakout boards.
+7. Modify Arduino Mega bootloader to run at 8MHz. (to make it 3.3v safe)
+8. Build breadboard model with Arduino Mega board.
+9. Update main pcb schematic and pcb layout.
+10. Order main pcb.
