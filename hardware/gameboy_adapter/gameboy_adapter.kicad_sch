@@ -1685,7 +1685,7 @@
     (uuid 7f6cd577-ef9e-42a4-adf6-7998d45df605)
     (property "Reference" "J1" (id 0) (at 85.09 26.67 90))
     (property "Value" "CART SLOT TOP ROW" (id 1) (at 85.09 29.21 90))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x38_P2.54mm_Vertical" (id 2) (at 83.82 33.02 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x38_P2.54mm_Vertical" (id 2) (at 83.82 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 83.82 33.02 0)
@@ -1917,7 +1917,7 @@
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
     )
     (path "/7f6cd577-ef9e-42a4-adf6-7998d45df605"
-      (reference "J1") (unit 1) (value "CART SLOT TOP ROW") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x38_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "CART SLOT TOP ROW") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x38_P2.54mm_Vertical")
     )
     (path "/93730f4d-f5ea-4311-bd16-a096e537871b"
       (reference "J2") (unit 1) (value "GBA_Slot") (footprint "!OSCR:GBA_Slot")
