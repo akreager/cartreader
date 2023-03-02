@@ -337,7 +337,7 @@
   (pad "60" thru_hole circle (at 2.5 37.5) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 9612429d-d6f7-4586-a04b-3f682148a484))
   (pad "61" thru_hole circle (at 2.5 40) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 02b36293-6482-4ee9-93be-fb20a439204a))
   (pad "62" thru_hole circle (at 2.5 42.5) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp e03dd064-862f-485b-bc4f-22fdd072a3b1))
-  (model "C:/Users/jetfa_dgb/Downloads/SNES Slot, Type A.step"
+  (model "D:/Dropbox/Projects/KiCAD/cartreader/hardware/footprints/step/SNES Slot, Type A.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

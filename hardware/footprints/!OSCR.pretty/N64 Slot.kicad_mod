@@ -279,7 +279,7 @@
   (pad "48" thru_hole circle (at 2.75 25 270) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp b293d5ae-861c-4742-86ad-fc5cbb333fce))
   (pad "49" thru_hole circle (at 2.75 27.5 270) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 79c0e9a3-4c28-4ba0-9412-8d9e07b15ced))
   (pad "50" thru_hole circle (at 2.75 30 270) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp f463322b-2b85-4e7b-b4d7-67653ef4277e))
-  (model "C:/Users/jetfa_dgb/Downloads/N64 Cartridge Slot.step"
+  (model "D:/Dropbox/Projects/KiCAD/cartreader/hardware/footprints/step/N64 Cartridge Slot.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

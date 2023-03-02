@@ -40,7 +40,7 @@
   (pad "1" thru_hole oval (at -4 0) (size 3 4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 490e99f8-7c36-400e-a8e4-267e9e890e37))
   (pad "2" thru_hole oval (at 0 0) (size 3 4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 74951af0-3c4d-4db4-9607-bc08a9534c72))
   (pad "3" thru_hole oval (at 4 0) (size 3 4) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp f93a529b-fc23-4f56-8bbe-77bc811a4ab6))
-  (model "C:/Users/jetfa_dgb/Downloads/Part Studio 1 - N64 Controller Port.step"
+  (model "D:/Dropbox/Projects/KiCAD/cartreader/hardware/footprints/step/N64 Controller Port.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
